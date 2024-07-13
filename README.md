@@ -1,12 +1,9 @@
-Here is the updated README file including the top 10 important features based on the provided images:
-
----
 
 # College Success Predictors: A Machine Learning Approach
 
 ## Project Overview
 
-This project aims to apply machine learning techniques to better understand educational outcomes using the College Scorecard data provided by the U.S. Department of Education. The primary objective is to identify key university-level factors that predict strong retention and graduation rates. The project utilizes various machine learning models to analyze these factors and provide insights into higher education success metrics.
+This project applies machine learning techniques to understand educational outcomes using the College Scorecard data from the U.S. Department of Education. The primary objective is to identify university-level factors that predict strong retention and graduation rates. The project explores various data features related to financial metrics, institutional characteristics, and student demographics to provide insights into higher education success metrics.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -93,7 +90,7 @@ The models were evaluated using the following metrics:
 
 1. **Mean Absolute Error (MAE)**: The average magnitude of errors in predictions.
 2. **Mean Squared Error (MSE)**: The average squared difference between actual and predicted values.
-3. **R-squared (R²)**: The proportion of variance in the dependent variable that is predictable from the independent variables.
+3. **R-squared (R²)**: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
 
 ### Results Interpretation:
 
@@ -139,11 +136,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Additional Files
 
-- `requirements.txt`: Contains the list of required Python libraries.
-- `data/cleaned_data.csv`: The cleaned dataset used for the analysis.
-- `notebooks/`: Jupyter notebooks containing the step-by-step analysis and modeling process.
-- `scripts/`: Python scripts for data preprocessing, modeling, and evaluation.
-
----
-
-Feel free to adjust the feature names and other specific details based on your actual project. If you need further assistance, please let me know!
+- `requirements.txt`: Contains the list of required Python

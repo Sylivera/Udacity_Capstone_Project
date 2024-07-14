@@ -16,8 +16,6 @@ I have written a blogpost on Medium on this work. Please find it here - https://
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 
@@ -124,14 +122,6 @@ The analysis identified several key factors that influence retention and graduat
 8. **AVGFACSAL**: Average faculty salary.
 9. **FEMALE**: Percentage of female students.
 10. **DEBT_MDN**: Median debt of graduates.
-
-## Contributors
-
-- Your Name (Project Lead)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 

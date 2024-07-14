@@ -4,6 +4,7 @@
 ## Project Overview
 
 This project applies machine learning techniques to understand educational outcomes using the College Scorecard data from the U.S. Department of Education. The primary objective is to identify university-level factors that predict strong retention and graduation rates. The project explores various data features related to financial metrics, institutional characteristics, and student demographics to provide insights into higher education success metrics.
+I have written a blogpost on Medium on this work. Please find it here - https://medium.com/@justinesylivera/uncovering-the-secrets-of-student-success-a-machine-learning-journey-6c89336220a3
 
 ## Table of Contents
 - [Project Overview](#project-overview)
